@@ -1,0 +1,2 @@
+- [x] 1. player continous movement
+- [x] 2. grabbing the knob to open a door
